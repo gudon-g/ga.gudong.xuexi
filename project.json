@@ -1,0 +1,46 @@
+{
+    "assets": [],
+    "build": {
+      "build_id": "",
+      "build_number": 1,
+      "build_time": 1623341302134,
+      "release": false
+    },
+    "encryptLevel": 0,
+    "useFeatures": [],
+    "icon": "res/icon.jpg",
+    "launchConfig": {
+      "displaySplash": true,
+      "hideLogs": true,
+      "splashIcon": "res/icon.jpg",
+      "splashLayoutXml": "splash.xml",
+      "splashText": "Powered by Auto.js Pro",
+      "stableMode": false
+    },
+    "main": "main.js",
+    "name": "咕咚一键",
+    "optimization": {
+      "removeOpenCv": false,
+      "unusedResources": false
+    },
+    "packageName": "com.gudong.xuexi",
+    "permissionConfig": {
+      "manifestPermissions": null,
+      "requestListOnStartup": ["android.permission.WRITE_EXTERNAL_STORAGE","android.permission.MODIFY_AUDIO_SETTINGS","android.permission.READ_EXTERNAL_STORAGE","android.permission.WRITE_SETTINGS","android.permission.ACCEPT_HANDOVER","android.permission.BROADCAST_STICKY","android.permission.ACCESS_NETWORK_STATE","android.permission.SYSTEM_ALERT_WINDOW"]
+    },
+    "publish": {
+      "category": "其他",
+      "details": "咕咚一键由“咕咚”基于autojs独立开发,为同学带来方便,此功能完全免费,如果有盗卖现象,请立马退货退款后拉黑。",
+      "maxAutoJsVersion": -1,
+      "minAutoJsVersion": -1,
+      "maxProVersion": 7000401,
+      "minProVersion": 7000401,
+      "minSdkVersion": 7,
+      "permissions": [],
+      "summary": "咕咚一键由“咕咚”基于autojs独立开发,为同学带来方便,此功能完全免费,如果有盗卖现象,请立马退货退款后拉黑。",
+      "tags": []
+    },
+    "scripts": {},
+    "versionCode": 1,
+    "versionName": "1.0.2 daily"
+  }

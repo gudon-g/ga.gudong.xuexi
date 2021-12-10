@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vertical>
+  <frame gravity="center" height="match_parent" width="match_parent" background="#000000">
+    <img src="https://gitee.com/flsdfhij/bloglmage/raw/master/img/gudong2.jpg" scaleType="fitCenter" />
+    <RelativeLayout height="match_parent" width="match_parent">
+      <frame layout_centerHorizontal="true" layout_alignParentBottom="true" gravity="center" background="#cc000000">
+        <text text="Powered by Auto.js Pro" layout_width="wrap_content" layout_height="wrap_content" textSize="12" textColor="#8BC34A" textStyle="bold" margin="24" />
+      </frame>
+    </RelativeLayout>
+  </frame>
+</vertical>
